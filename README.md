@@ -1,2 +1,2 @@
-# translation-material
+# Translation Material
 Miscellaneous TYPE-MOON translations
